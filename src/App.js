@@ -2,7 +2,6 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Navbar from './Components/Navbar';
-import { NewsBoard } from './Components/NewsBoard';
 import { NewsItem } from './Components/NewsItem';
 import Footer from './Components/Footer';
 import {Toi} from './Components/Toi'; // Import the TOI component
