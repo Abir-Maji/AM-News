@@ -1,4 +1,7 @@
 # AM-News
+
+# Screenshot
+
 1. ABP News
 ![Screenshot (35)](https://github.com/user-attachments/assets/7df2e921-1693-420b-83c5-36352947af54)
 
